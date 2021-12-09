@@ -10,13 +10,20 @@ h1{
 p{
     background-color: black;
     color: white;
-    font-size: 30px;
+    font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
-.mijnAfbeelding{
-    height: 250px;
-    width: 270px;
+.FOTORIJK{
+    height: 350px;
+    width: 180px;
+}
+
+.schets{
+    height: 350px;
+    width: 180px;
+    
 }
 
 button{
